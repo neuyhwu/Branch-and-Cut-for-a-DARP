@@ -3,4 +3,4 @@ This is the implementation of the paper "A Branch-and-Cut Algorithm for the Dial
 
 **The algorithm is implemented using the CPLEX JAVA API.**
 
-The main part of the implementation is in located in model.java. This file contains all the constraints. The classes truck.java and node.java contain the code for representing a vehicle transporting persons and a the code representing a node.
+The main part of the implementation is in located in [model.java](https://github.com/grthor/Branch-and-Cut-for-a-DARP/blob/master/src/logic/model.java). This file contains all the constraints. The classes truck.java and node.java contain the code for representing a vehicle transporting persons and a the code representing a node.
